@@ -50,7 +50,7 @@ export default function Home() {
         reverseOrder={false}
       /></div>
       <Input setData={setData} setStart={setStart} start={start} />
-      <div className={`${cover ? "pointer-events-none" : "pointer-events-auto"} grid grid-cols-5 gap-2  border-2 p-2 rounded-lg border-[#121212] z-40`}>
+      <div className={`${(cover || data==0 || !start) ? "pointer-events-none" : "pointer-events-auto"} grid grid-cols-5 gap-2  border-2 p-2 rounded-lg border-[#121212] z-40`}>
         {tiles.map((id) => (
           <SquareTile
             key={id}
