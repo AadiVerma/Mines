@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/5d0b3f7e-32db-4535-b7fe-f3e7060acbc4)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A web-based version of the classic **Mines** game, inspired by the smooth and minimal gameplay experience of [Stake.com](https://stake.com/).  
+Built using **Next.js**, with a strong focus on simplicity, responsiveness, and clean UI interactions.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## 🚀 Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🎮 Simple, intuitive gameplay
+- 💥 Instant feedback on mine selection
+- 🧠 Logic-based safe tile reveal
+- 🔁 Reset and play again easily
+- 📱 Mobile responsive UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Screenshots
+![image](https://github.com/user-attachments/assets/69b3988c-5177-4941-a572-aa18440cd03a)
 
-## Deploy on Vercel
+![image](https://github.com/user-attachments/assets/49805281-7dcf-4051-91c3-0df3a850c663)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Technologies Used
+
+- NextJS
+- React
+- Tailwind CSS
+- TypeScript
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
